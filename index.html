@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Game · SSS</title>
+  <meta name="description" content="“Your move,” she said.">
+  <link rel="canonical" href="https://matt-meow.web.app/sss/s/the-game/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="SSS">
+  <meta property="og:title" content="The Game · SSS">
+  <meta property="og:description" content="“Your move,” she said.">
+  <meta property="og:url" content="https://matt-meow.web.app/sss/s/the-game/">
+  <meta property="og:image" content="https://matt-meow.web.app/icons/icon-512.png">
+  <meta property="article:published_time" content="2026-06-07">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#131315">
+  <link rel="icon" type="image/svg+xml" href="./icons/logo.svg">
+  <link rel="prefetch" href="./s/the-foam/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Spectral:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
+  <script>
+    // Apply the saved sidebar state before first paint (mirrors js/sidebar.js).
+    (function () {
+      var s = matchMedia('(min-width: 900px)').matches ? 'open' : 'closed';
+      try { if (s === 'open' && localStorage.getItem('sss:sidebar') === 'closed') s = 'closed'; } catch (e) {}
+      document.documentElement.dataset.sidebar = s;
+    })();
+  </script>
+  <script type="module" src="./js/main.js"></script>
+</head>
+<body>
+  <script src="../topbar.js" data-home="../"></script>
+  <script>
+    // Add the site logo + title to the shared topbar, between the cat and "about".
+    (function () {
+      var inner = document.querySelector('#nav .nav-inner');
+      if (!inner) return;
+      var site = document.createElement('a');
+      site.className = 'nav-site';
+      site.href = './';
+      site.innerHTML = '<img src="./icons/logo.svg" alt=""><span>SSS</span>';
+      inner.insertBefore(site, inner.children[1]);
+    })();
+  </script>
+  
+  <button class="sb-btn sb-btn--open" type="button" data-sidebar-toggle aria-controls="sidebar" aria-label="Show all stories"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="4.5" width="17" height="15" rx="2.5"/><path d="M9.5 4.5v15"/></svg></button>
+  <div class="sb-backdrop" data-sidebar-close></div>
+  <aside class="sidebar" id="sidebar" aria-label="All stories">
+    <div class="sb-head">
+      <a class="sb-brand" href="./"><span class="sb-brand-title">Short Story Saturdays</span><span class="sb-brand-sub">a collection of cosmic dusts</span></a>
+      <button class="sb-btn" type="button" data-sidebar-toggle aria-controls="sidebar" aria-label="Hide all stories"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="4.5" width="17" height="15" rx="2.5"/><path d="M9.5 4.5v15"/></svg></button>
+    </div>
+    <nav class="sb-scroll" aria-label="Stories">
+        <section class="sb-group">
+          <h2 class="sb-group-label">June 2026</h2>
+          <ul class="sb-items">
+            <li><a class="sb-link is-current" href="./s/the-game/" aria-current="page"><span class="sb-link-title">The Game</span><time class="sb-link-date" datetime="2026-06-07">Jun 7</time></a></li>
+            <li><a class="sb-link" href="./s/the-foam/"><span class="sb-link-title">The Foam</span><time class="sb-link-date" datetime="2026-06-04">Jun 4</time></a></li>
+          </ul>
+        </section>
+        <section class="sb-group">
+          <h2 class="sb-group-label">May 2026</h2>
+          <ul class="sb-items">
+            <li><a class="sb-link" href="./s/untitled-2026-05-27/"><span class="sb-link-title">Untitled</span><time class="sb-link-date" datetime="2026-05-27">May 27</time></a></li>
+          </ul>
+        </section>
+    </nav>
+  </aside>
+
+  <main class="reader">
+    <article class="story">
+      <header class="story-head">
+        <time class="story-date" datetime="2026-06-07">June 7, 2026</time>
+        <h1 class="story-title">The Game</h1>
+        <p class="story-meta">12 words · 1 min read</p>
+      </header>
+      <div class="story-body">
+<p>“Your move,” she said.</p>
+<p>It was, in the end, only a sample.</p>
+      </div>
+    </article>
+    <nav class="pager" aria-label="More stories">
+    <span class="pager-gap"></span>
+    <a class="pager-link pager-next" rel="next" href="./s/the-foam/"><span class="pager-dir">older →</span><span class="pager-title">The Foam</span></a>
+  </nav>
+  </main>
+</body>
+</html>
