@@ -23,7 +23,7 @@ function initKeys() {
 // ------------------------------------
 
 // remembers each story's scroll position for this tab only
-const SCROLL_KEY = 'sss:scroll';
+const SCROLL_KEY = 'sss-scroll';
 
 function initScrollMemory() {
   history.scrollRestoration = 'manual';
@@ -70,9 +70,47 @@ function animateScroll(y) {
 }
 
 // ------------------------------------
+//               theme
+// ------------------------------------
+
+const THEME_KEY = 'sss-theme';
+const THEME_COLORS = { dark: '#131315', light: '#faf8f3' }; // browser UI color
+
+function applyTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  document.querySelector('meta[name="theme-color"]')?.setAttribute('content', THEME_COLORS[theme]);
+  document.querySelector('[data-theme-toggle]')?.setAttribute('aria-pressed', String(theme === 'dark'));
+}
+
+function initTheme() {
+  document.querySelector('[data-theme-toggle]')?.addEventListener('click', () => {
+    const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+    write(THEME_KEY, next);
+    applyTheme(next);
+  });
+  // Keep other open tabs in sync.
+  addEventListener('storage', (e) => {
+    if (e.key === THEME_KEY) applyTheme(e.newValue === 'light' ? 'light' : 'dark');
+  });
+}
+
+// ------------------------------------
+//            focus rings
+// ------------------------------------
+
+// Flags the last input type on <html> so CSS can show focus rings for Tab only.
+function initFocusRings() {
+  const root = document.documentElement;
+  addEventListener('pointerdown', () => { root.dataset.input = 'pointer'; }, true);
+  addEventListener('keydown', (e) => { if (e.key === 'Tab') root.dataset.input = 'keyboard'; }, true);
+}
+
+// ------------------------------------
 //                 init
 // ------------------------------------
 
 initSidebar();
 initKeys();
+initTheme();
+initFocusRings();
 initScrollMemory();

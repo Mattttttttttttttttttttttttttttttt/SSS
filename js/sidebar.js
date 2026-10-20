@@ -1,7 +1,7 @@
 // Sidebar open/close, persisted on desktop; overlay behaviour on mobile.
 
 // ------------------------------------
-//               storage               
+//               storage
 // ------------------------------------
 
 const area = (kind) => (kind === 'session' ? sessionStorage : localStorage);
@@ -15,11 +15,11 @@ export function write(key, value, kind = 'local') {
 }
 
 // ------------------------------------
-//               sidebar               
+//               sidebar
 // ------------------------------------
 
-const PREF_KEY = 'sss:sidebar';
-const SCROLL_KEY = 'sss:sidebar-scroll';
+const PREF_KEY = 'sss-sidebar';
+const SCROLL_KEY = 'sss-sidebar-scroll';
 const desktop = matchMedia('(min-width: 900px)');
 const root = document.documentElement;
 

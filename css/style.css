@@ -34,6 +34,45 @@
 }
 
 /* ------------------------------------ */
+/*                themes                */
+/* ------------------------------------ */
+
+/* Dark is the default; the rest of its colors are in the tokens above. */
+:root {
+  color-scheme: dark;
+  --brand: #dedbcd;          /* topbar title: the logo's cream, slightly dimmed */
+  --logo-filter: none;
+  --scrim: rgba(0, 0, 0, 0.55);
+  --shadow: 0 0 48px rgba(0, 0, 0, 0.5);
+  --moon: #a8b4ff;
+}
+
+:root[data-theme='light'] {
+  color-scheme: light;
+  --hue: 60;
+  --tint: 0.02;
+  --bg: oklch(0.979 var(--tint) var(--hue));
+  --surface: oklch(0.955 var(--tint) var(--hue));
+  --surface-2: oklch(0.931 var(--tint) var(--hue));
+  --border: oklch(0.892 var(--tint) var(--hue));
+  --border-2: oklch(0.83 var(--tint) var(--hue));
+  --text: #1e1d1a;
+  --text-less-dim: #33312c;
+  --text-dim: #57544c;
+  --text-muted: #6e6a5f;
+  --text-story: #2a2824;
+
+  --accent: #cf2f5f;         /* darkened pink: 4.7:1 on --bg, the dark theme's pink is too faint */
+  --accent-dim: rgba(207, 47, 95, 0.08);
+  --accent-border: rgba(207, 47, 95, 0.35);
+
+  --brand: #2e2c26;
+  --logo-filter: invert(1);  /* cream logo becomes dark ink */
+  --scrim: rgba(30, 24, 12, 0.32);
+  --shadow: 0 0 40px rgba(40, 30, 10, 0.18);
+}
+
+/* ------------------------------------ */
 /*                 base                 */
 /* ------------------------------------ */
 
@@ -58,6 +97,8 @@ button { font: inherit; color: inherit; }
 ::-webkit-scrollbar-thumb { background: var(--border-2); border-radius: 3px; }
 
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+:root[data-input='pointer'] :focus,
+:root[data-input='pointer'] :focus-visible { outline: none; }
 
 /* ------------------------------------ */
 /*           topbar additions           */
@@ -78,14 +119,39 @@ button { font: inherit; color: inherit; }
   margin-right: 4px;
   background: var(--border-2);
 }
-.nav-site img { display: block; width: 20px; height: 20px; }
+.nav-site img { display: block; width: 20px; height: 20px; filter: var(--logo-filter); }
 .nav-site span {
   font-family: var(--font-body);
-  font-size: 1.15rem;
-  font-style: italic;
+  font-size: 1.1rem;
   font-weight: 600;
-  color: var(--accent);
+  letter-spacing: 0.06em;
+  color: var(--brand);
 }
+
+/* Theme button: filled, ringed circle while dark mode is active. */
+.nav-theme {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  padding: 0;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  background: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color 0.12s, background 0.12s, border-color 0.12s;
+}
+.nav-theme svg { display: block; width: 18px; height: 18px; }
+.nav-theme:hover { color: var(--text); }
+.nav-theme[aria-pressed='true'] {
+  color: var(--moon);
+  background: color-mix(in srgb, var(--moon) 14%, transparent);
+  border-color: color-mix(in srgb, var(--moon) 40%, transparent);
+}
+
+:root[data-theme='light'] .nav-cat svg { color: black; }
 
 /* ------------------------------------ */
 /*                layout                */
@@ -204,7 +270,7 @@ button { font: inherit; color: inherit; }
 @media (max-width: 899px) {
   .sidebar {
     width: min(86vw, 320px);
-    box-shadow: 0 0 48px rgba(0, 0, 0, 0.5);
+    box-shadow: var(--shadow);
     z-index: 150; /* above reader, below the topbar modal (200) */
   }
   .sb-backdrop {
@@ -212,7 +278,7 @@ button { font: inherit; color: inherit; }
     position: fixed;
     inset: var(--nav-h) 0 0 0;
     z-index: 140;
-    background: rgba(0, 0, 0, 0.55);
+    background: var(--scrim);
     opacity: 0;
     pointer-events: none;
     transition: opacity var(--ease);
