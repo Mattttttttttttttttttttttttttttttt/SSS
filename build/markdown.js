@@ -3,7 +3,7 @@
 import { escapeHtml } from './util.js';
 
 // ------------------------------------
-//      inline (bold, links, ...)      
+//      inline (bold, links, ...)
 // ------------------------------------
 
 const OPEN = '\uE000';
@@ -71,17 +71,15 @@ function inline(src) {
 }
 
 // ------------------------------------
-//   blocks (paragraphs, quotes, ...)  
+//   blocks (paragraphs, quotes, ...)
 // ------------------------------------
 
-const HR = /^\s*(?:\\?[*\-_~]\s*){3,}$/;
+const HR = /^\s*(?:\\?[*\-_~]\s*){3,}$|^\s*\\?\*\s*$/; // ***, ---, * * * or a lone *
 const HEADING = /^(#{1,6})\s+(.*?)\s*#*\s*$/;
 const QUOTE = /^\s{0,3}>\s?(.*)$/;
 const UL = /^\s*[*+-]\s+(.*)$/;
 const OL = /^\s*\d+[.)]\s+(.*)$/;
 const REF_DEF = /^\[[^\]]+\]:\s*\S+/; // image/link reference definitions in Docs exports
-
-const startsBlock = (l) => HR.test(l) || HEADING.test(l) || QUOTE.test(l) || UL.test(l) || OL.test(l);
 
 function blocks(lines) {
   const out = [];
@@ -117,10 +115,9 @@ function blocks(lines) {
       continue;
     }
 
-    const buf = [line];
+    // Docs paragraphs are never soft-wrapped, so every text line is its own paragraph.
     i++;
-    while (i < lines.length && lines[i].trim() && !startsBlock(lines[i])) buf.push(lines[i++]);
-    const html = inline(buf.join('\n')).trim();
+    const html = inline(line.replace(/(?: {2,}|\\)$/, '')).trim();
     if (html) out.push(`<p>${html}</p>`);
   }
   return out.join('\n');

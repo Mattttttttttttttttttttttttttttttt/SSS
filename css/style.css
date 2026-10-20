@@ -28,8 +28,8 @@
   --side-pad: 28px;            /* (topbar) */
   --radius: 3px;               /* (topbar) */
 
-  --sidebar-w: 280px;
-  --measure: 38rem;
+  --sidebar-w: clamp(300px, 24vw, 380px); /* grows with the screen, 300px minimum */
+  --measure: 52rem;
   --ease: 0.22s ease;
 }
 
@@ -260,7 +260,11 @@ button { font: inherit; color: inherit; }
 /* Body */
 .story-body { font-size: 1.2rem; line-height: 1.75; color: var(--text-story); }
 .story-body > * + * { margin-top: 1.15em; }
-.story-body p { text-wrap: pretty; }
+.story-body p { text-wrap: pretty; text-indent: 1.5em; }
+/* Print-style paragraphs: no gap between them, and no indent where a section starts. */
+.story-body p + p { margin-top: 0; }
+.story-body :is(hr, h2, h3, h4, blockquote, ul, ol) + p,
+.story-body blockquote p { text-indent: 0; }
 .story-body strong { font-weight: 600; color: var(--text); }
 .story-body a { color: var(--accent); text-decoration-color: var(--accent-border); text-underline-offset: 3px; }
 .story-body a:hover { text-decoration-color: var(--accent); }
