@@ -42,6 +42,17 @@ function revealCurrent(list) {
   else if (bottom > list.scrollTop + list.clientHeight - 8) list.scrollTop = bottom - list.clientHeight + 48;
 }
 
+// Keep wheel scrolling over the sidebar from leaking to the page.
+function lockWheel(list) {
+  document.getElementById('sidebar').addEventListener('wheel', (e) => {
+    if (e.ctrlKey) return; // pinch / ctrl-zoom
+    const atEnd = e.deltaY < 0
+      ? list.scrollTop <= 0
+      : list.scrollTop >= list.scrollHeight - list.clientHeight - 1;
+    if (!list.contains(e.target) || atEnd) e.preventDefault();
+  }, { passive: false });
+}
+
 export function initSidebar() {
   setState(root.dataset.sidebar || 'closed');
 
@@ -60,6 +71,7 @@ export function initSidebar() {
 
   const list = document.querySelector('.sb-scroll');
   if (!list) return;
+  lockWheel(list);
   list.scrollTop = Number(read(SCROLL_KEY, 'session')) || 0;
   revealCurrent(list);
   addEventListener('pagehide', () => write(SCROLL_KEY, String(list.scrollTop), 'session'));
