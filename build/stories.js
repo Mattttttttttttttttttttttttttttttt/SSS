@@ -7,7 +7,7 @@ import { createSlugger, excerpt, parseDate, stripHtml, wordCount } from './util.
 import { renderMarkdown } from './markdown.js';
 
 // ------------------------------------
-//             source files            
+//             source files
 // ------------------------------------
 
 const H1 = /^#\s+(.*?)\s*#*\s*$/;
@@ -62,14 +62,18 @@ function readSources() {
   if (!files.length) throw new Error('No .md files found in ./src');
 
   const errors = [];
-  const stories = files.flatMap((f) => splitFile(f, errors));
+  const stories = files.flatMap((f) => {
+    const fileStories = splitFile(f, errors);
+    if (!fileStories.length) console.warn(`[warning] ${f}: no stories found`);
+    return fileStories;
+  });
   if (errors.length) throw new Error(errors.join('\n'));
   if (!stories.length) throw new Error('No stories found in ./src');
   return stories;
 }
 
 // ------------------------------------
-//        ordering and rendering       
+//        ordering and rendering
 // ------------------------------------
 
 // Returns stories newest first. `older` / `newer` link neighbours.
