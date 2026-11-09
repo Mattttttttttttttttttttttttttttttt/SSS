@@ -86,7 +86,11 @@ function blocks(lines) {
   let i = 0;
   while (i < lines.length) {
     const line = lines[i];
-    if (!line.trim()) { i++; continue; }
+    if (!line.trim()) {
+      if (out.length) out.push('<p class="gap" aria-hidden="true"><br></p>');
+      i++;
+      continue;
+    }
 
     if (HR.test(line)) { out.push('<hr class="scene-break">'); i++; continue; }
 

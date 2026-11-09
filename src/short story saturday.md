@@ -1,4 +1,4 @@
-# **Untitled | May 27 2026**
+# **Untitled \| May 27 2026**
 
 He sits in his chair, propped his head on his hand. Looking out, the wind is swooshing by in the backyard. It’s a beautiful evening, but he’s not going out. He never goes out with his parents. Walks are boring. He never liked walks. Aside from when his cousin came over.  
 His head is a bit heavy. From all the work, maybe. But there isn’t even that much to do. He finds himself in this strange situation often. Forever worrying but never doing.  
@@ -13,7 +13,7 @@ Red lightnings zap through the sky. Suddenly it is clear to him that what he tho
 He redirects his attention back to the snowy hiking trail in front of him. He is getting to the summit of this snowy mountain. He takes a step, but the snow is too deep. Suddenly he’s sinking through the snow, struggling to no avail. The snow around him collapses into a tunnel, guiding him down to a mineshaft. It is pitch black again, and he cannot feel the walls.  
 Suddenly he jolts awake. He sighs, and stands up to get some coffee.
 
-# **The Foam | June 4 2026**
+# **The Foam \| June 4 2026**
 
 The air was cold, but Rosalind’s palms were sticky with sweat. Piles and piles of paper, mountains, even, surrounded her. The messy state of the laboratory would shock any outsider, but Rosalind got used to it a long time ago. At least she keeps her test tubes clean. Between her and herself, she would say she’s a pretty organized person, but she also admits that the situation doesn’t look good for her. In her defense, she couldn’t go outside during the day. Just look outside the window. Snow this year was unusual even to her town, and it had collected to several feet thick. Just as well—she didn’t have anything special to do, and she was secretly thankful that the snow gave her such an excuse to not go to the telephone booth to call home.  
 Spring was nearing, though, and Rosalind hoped that her work could be drawn to a close soon enough that she could go home for the first time since ten years ago during the summer. Not like she had any particular ties with her family, but it’s clearly in some sense inappropriate for her to go ten years without seeing them. Tonight. Tonight will be the night, though.  
@@ -74,7 +74,7 @@ It hit another similar box at the other end of the room. The box crumbled. A hug
 
 *Rosalind D. Drexel, 1953-1991, age 38\. Born for greatness, she worked her whole life for her dream of a scientific breakthrough that never came. No one who’s met Rosalind has not been impressed by her dedication, and her willingness to do hard work for her passion. Her demise ultimately came from her passion. An explosion happened during one of her experiments, presumably because just moments before, she had a heart attack. The building collapsed onto herself and one other dedicated scientist who happened to be at the door of Rosalind’s lab. We offer our heartfelt sympathy for the two unfortunate scientists, and condolences to their loved ones.*
 
-# **The Game | June 7 2026**
+# **The Game \| June 7 2026**
 
 I’m Sahil, and I’ve seen it all.  
 You are reading this on paper—I found a notebook at the doorstep of the apartment. Yet anyone around can hear me. I’ve learned to turn off my thoughts so I do not get discovered, but I’m not as good as some. They made thoughts louder than a whisper, and the more adrenaline you have in your system, the louder. It has led to some gruesome incidents that I witnessed.  
@@ -100,7 +100,7 @@ Dear friend, this may be the Update when I have to say goodbye—I always tell m
 *Sahil “Skyscraper” Vaid, best known for his skyscraper free fall against an Elite Hunter, was an excellent example of the mental benefits the Game can bring humans. The Game had inspired Sahil to be resilient, given him experience of the world. He loved to travel, and the Game had provided just the opportunity for that. He had been to all of the countries except for Luxembourg, England, and Ireland. He had survived more than 20,000 Updates before one of the Elites finally got him in an apartment, appearing to be writing a diary. In it, he expressed just how exhilarating the Game is to him, and how much he wished to thank Us for creating the Game. The Game had created a strong sense of self-awareness in him, and without contacting any of the Informers, he managed to secure a mostly accurate account of the Game. Sahil’s story should inspire more of Us to start the Game for other species as well. We are withholding them the opportunity to advance if we do not choose to do so.*  
 *— The Game, Inc.*
 
-# **Abroad the Caltrain into San Francisco | June 13 2026**
+# **Abroad the Caltrain into San Francisco \| June 13 2026**
 
 I sat and watched scenery vanish into the front of me.  
 I passed by abandoned buildings, tunnels with beautiful graffiti on the side of them. People that I don't know had been there to leave those art. For what? I bet if you asked why, you could fill a whole book more.  
@@ -111,7 +111,7 @@ But the doors closed. Who will it leave behind?
 Shops, endless shops, poorly renovated, now filled my view. Each one of them has its owner. That owner has friends, family, lovers, maybe. Now it's a 4-story parking lot. All of the cars have an owner, that owner has a story and will be glad to tell you it if you are kind enough.  
 I sighed at the vastness of the world. I'm just another traveller, bound for another distant city. To other people, I'm simply a quiet child, typing on his phone, looking out the window from time to time. To them I'm just another. 
 
-# **Once upon a Time, There Was a Pond | June 28 2026**
+# **Once upon a Time, There Was a Pond \| June 28 2026**
 
 “It’s been a while, hasn’t it?”  
 It was sunny last time we sat by the pond like that. The grass in the field was as tall as us, and everything feels lazily hazy in my memories. It was snacks, laughter, and good feelings, tinted with sunshine. It was messy hair, slingshots, and innocence, wet with water. What a time.  
@@ -138,7 +138,7 @@ The use of past tense breaks my heart. I swallow hard, and break eye contact to 
 “It’s nice you came, though. I do appreciate it.” Will smiles with a distance in his voice I’m not used to.  
 And right then, I know it’s gone. I will go back to the city, work my old job. I will go on with my routines in my little apartment. I’ll have coffee with my half-friends, talk about what goes on at work, talk about trivialities. There will be no sunshine, no wet grass in the city. I’ll never have a friend like Will again.
 
-# **Terra's Verse | July 27 2026**
+# **Terra's Verse \| July 27 2026**
 
 “Everything’s just blurry again…” Mandy sighed as she flopped onto the bed. That’s part of the drawback of living in the city. There just are so many agents around, that the bandwidth from BCM never gets to everyone. As a result, the resolution decreases, the refresh rate drops, and everyone lags.  
 Everyone feels the same lag, her mom had told her many, many times since they moved to the city. Eventually you’ll get used to it. It’s always just a process. When I was your age…  
@@ -181,7 +181,7 @@ The sounds felt so natural to her—almost a part of her—that she didn’t not
 Her gaze followed the dirt path. Seeing everything in such high resolution was unusual to her, and she knew she wouldn't have long, so she tried her best to take in every detail. The way the dirt path criss-crossed each other and went into the distance, it reminded of her childhood again.  
 Now she’s been shown the other side of the world she’s living in, now that she knew she, too, could become a unit leader, she didn’t miss her childhood in the same way. She didn’t know quite what had changed. Instead, she just turned around, and pulled Terra into a deep, warm hug.
 
-# **Conformity | August 12 2026**
+# **Conformity \| August 12 2026**
 
 You’re here again. Finally. After this long.  
 The wall of figures has been waiting for you. Stone cold, like it always is.  
@@ -198,14 +198,14 @@ It must be hard to make a decision with so many questions hovering in your head.
 You similarly refuse to accept that no one could give you your bubble within the wall. After all, it’s clear that you don’t have the ability to do that yourself.  
 Maybe you would have been able to make your own bubble, had your reflections shone on you, glittering and turning, until you smiled.
 
-# **July, I’ll miss you. | August 19 2026**
+# **July, I’ll miss you. \| August 19 2026**
 
 Muffled heat, like a fog. Descended on the living room. Descended on me. Furious typing on my computer. Heated discussions about essays, useless. Stuck in my room, classes. Bored out of my mind. Fortunately we escaped. Across a continent, to travel. The leaves were greener. The sun was brighter. I did not sleep well.  
 Big room, crowded with thousands. Biggest stage of my life. I was nervous and surrounded. Faces I’ve never met. And will never see again. Stepping out of my shell. Had fun in hundred degree. There was nothing to lose. Stepped on stage to cheering. Sonder, the paths that converged. True laughs, frozen through lenses.  
 I had wings. The water was green. Metropolises. Then I was off. To an unknown adventure. Sitting in the car, wondering. But wondering is no good. Just experience; just live. It takes time settling in. It’s okay to be empty. Especially when it’s so different. I could walk in T-shirts. Everything was fascinating. One bus. To the beach. To labs. To Google. It was so much. All at once. Could you imagine?  
 I analyzed the people. Disillusioned, but also hopeful. Cuz one niche is enough. I don’t have to care. I laughed, sincerely. I was in awe, mindblown. And I grew more confident. Perhaps it was never classes. It was a portal. A different life. I could live it.
 
-# **Fleeting World | August 23 2026**
+# **Fleeting World \| August 23 2026**
 
 She was younger then. It was a sunny day. The sun was in her eyes, and really, there was more strength behind the sunlight then. She wonders if it’s because of the air pollution.  
 Nowadays, there’s not really any time to wonder about anything.  
@@ -225,7 +225,7 @@ And then?
 Her mind is wandering. It’s trying to see through fogs that she can’t clear; it’s climbing walls she knows she can’t scale. She knows she’s forgetting something important. But she’s also used to that feeling. She could never remember what.  
 Her consciousness drifts further. It’s blissful, to finally drift away from this hell of a world, away from the man and woman sitting next to her hospital bed, who gave birth to her, who are hoping that what was left of her didn’t forget about them like she forgot about everything else.
 
-# **Love, the Dilemma | September 6 2026**
+# **Love, the Dilemma \| September 6 2026**
 
 End it. My brain said.  
 But what happens after? It would be pure darkness. A void. There would be nothing to fill that void. Nothing. Do you understand? I’m in this foreign country, and he was all I had\!  
@@ -253,7 +253,7 @@ They think we've got a perfect life
 We look good on paper  
 Then we fall apart later”
 
-# **Lost Boys | September 12 2026**
+# **Lost Boys \| September 12 2026**
 
 He kinda hates his name.  
 *Gabriel*.  
@@ -330,7 +330,7 @@ Suddenly he didn’t hate his name so much. Namesake and whatnot, it’s such an
 If you have magic, can you bring Vance back to life?  
 I don’t think so.
 
-# **i.e. | September 19 2026**
+# **i.e. \| September 19 2026**
 
 i.e., *id est* introverted extrovert.  
 Now, many people seem to be irked by this mish-mash of contradictions. But a quick internet search reveals that the top three hits don’t even agree on anything other than the fact that this term means you are in between introverted and extroverted. Since I very, very rarely encounter anyone with the same energy as me, allow me to define this term for you, by describing myself.  
@@ -345,7 +345,7 @@ In some twisted, idealistic way, I refuse to have an in-between friend. Not the 
 But I swear. I have to pretend, to hold myself back in so, so many occasions in my life. Come to think of it, there’s actually nobody in my life around which I can just be myself. It’s a pity. At school, I pretend to be unapproachable around people I don’t like, and I pretend to be super responsible and bubbly around people I can tolerate. But it’s annoying. And I’m also scared that I will lose myself if I keep pretending. Hell, if you asked me who I am, I feel like it’s getting blurry. I know who I am when I’m by myself, but how am I supposed to know who I am with people I feel safe with? *Who will I be?*  
 But I swear. They are out there. I’ll find them. And then I’ll just be a tiny introverted extrovert, i.e. me.
 
-# **Pentaperceperance | September 28 2026**
+# **Pentaperceperance \| September 28 2026**
 
 I believe that my job is even harder than a normal magician.  
 Magic is plausibility, feigned impossibility. So normal magicians just need to fake the impossibility through misdirection and clever setups. If I may say, that’s fairly easy. There are thousands of documented tricks at this point, easily accessible at your fingertips if you open any of the ancient magic books.  
@@ -418,7 +418,7 @@ What on Earth does that mean, *I’ve just asked her that?*
 But that question was temporarily put behind me, as I looked around at Regdorf and the pieces of my childhood in it.  
 Teleportation. I teleported.
 
-# **Migic | October 2 2026**
+# **Migic \| October 2 2026**
 
 Saying “pentaperceperance” is six syllables, and illegal. So I renamed it to migic. Magic, but Mike.  
 Okay, I admit that’s a little cringe, but I’m not very creative.  
@@ -487,7 +487,7 @@ His eyes widened and he beamed even wider, “I – yeah, Vim. I just – I didn
 There’s a slight problem that Vim brought up, though: I was supposed to perform this act two years ago. I have absolutely no idea what my act *is*. But I didn’t feel the need to pace around nervously anymore. In my imagination, I saw a standing ovation that I knew I would be able to bring about. But I didn’t feel migic pulling me into the scene; rather, in some way, it told me to stay in the moment.  
 “Follow your heart. It’s all just fate.”
 
-# **Villa de Vecchi | October 7 2026**
+# **Villa de Vecchi \| October 7 2026**
 
 The sky was barely visible through the canopy as Heather trudged slowly through the tall undergrowth. On her eighteenth birthday, her cousin Amy had told her about the house—Villa de Vecchi. She whispered in a hushed voice that if Heather ever went there, she would have a permanent curse put on her. It was made clear that it was not a good thing to do, yet it was delivered with a spark in Amy’s eyes. So naturally, Heather disregarded the warning, but she never had a chance to actually take the trip, as she still had to complete her coming-of-age ritual in her tribe. But that was finished a few days ago, so on this day when her mother was out for some errand, perhaps, she set out in the direction Amy pointed at.  
 To call it a house was for sure a misnomer. Due to the dense forest, it was not until she was at its foot that she could see the house in full. Mansion, that’s a better word. Its walls shot up to heights of three or four stories, white paint peeling off everywhere. There was no doubt it was abandoned a long, long time ago, maybe even before she was born, although not likely: she knows what a decade of moisture could do to a mansion like this, let alone when the mansion was right on the coast of a medium-sized lake.  
@@ -529,6 +529,94 @@ Good omen. She tried to clear her head and do a spell to calm herself, but befor
 It was knowing: “Gone are the days.”  
 The sun was approaching four o’clock when Heather finished her meditation by the lake. The water was tranquil today, the wind was gentle. All the overgrown grass here by the shore of the lake was familiar in a distant sense, even though it was across from where her tribe is.  
 Behind, Villa de Vecchi loomed over her, demanding an answer. Heather demanded an answer too. But to whom? It was to be understood that no one could offer her the answer she was looking for. In the end, she had resolved not to mention to Maret a word about the mansion. Maybe if she forgets, she can forget the curse the mansion put on her, too.
+
+# **What If I Drifted Away? \| October 23 2026**
+
+I was bright yellow, and when the child held me, I was almost as bright as his smile.  
+He was probably tiny, at most five—but let’s be clear: so are all those faces that I had seen at the balloon stand, and all the faces the child brought me to see. I floated above the crowd, overseeing an impressive number of people crammed into such a narrow street, and later, such a narrow queue. I watched the child beam as the worker told him with a polite smile that yes, he can bring me with him onto the bumper cars. He had a great deal of fun; I floated around in the air like I always do.  
+He took me to the carousel, the ferris wheel (where I could not float in the air as freely as I’d wished), and even the ice cream place. I watched him look up and grin at his parents, bubbly with happiness, munching at the ice cream. I, too, was happy.  
+Soon enough it was evening, and the child was nowhere near ready to accept that. His face turned from astonishment, to disbelief, to dread, and he started howling. His eyes pinched together, and as he cried, barely able to catch his breath, he let me go.  
+As I quickly floated upwards, mom made an alarmed face, and tried to grab the ribbon that’s floating past her so quickly. But it was dark, she was distressed, and she completely misjudged the distance. I brushed against the back of her hand, as if to say that everything will be OK, even though, as the child noticed I had escaped his hand, he started wailing even more. Dad was alarmed too, and lunged at me. But by then I was well past their reach. I was off into the clouds.  
+I have to admit that it felt quite blissful at first. To no longer be bound down by the ties and limits people put on me, I was *liberated*. I was created to be held down, held back, and now I had escaped, the freedom was exhilarating. My ribbon trailed behind me, flapping in the wind. I watched the world shrink below me. I silently greeted every person still lingering in the amusement park I saw. Two figures, skipping forward together. A bench with four people on it, no doubt chatting.  
+But as I was nearing the highest point of the highest roller coaster and the ferris wheel in the distance, I looked around to find myself alone. There were no children to beam at me; no one else like me who could share my gloom while we headed firmly towards death. *Well, at least I was free.* That seemed less convincing than before. Am I really free if I'm just stuck in an eternal ascent? Up, up, up until forever? Suddenly it didn’t seem so bad to be held and be around people, even if it meant sacrificing some of my freedom to make them happy.  
+Doom, devastation, despair. I wanted to rewind time; meanwhile time ticked on. I was at a height to rival a landing airplane. Everything appeared so small, small enough to scare any human not used to seeing the scale of things. For each apartment building, there seemed to be a thousand more; for each person, there’s millions of others who went about their life like ants.  
+I stared, devoid of thoughts, trying to make sense of it all.  
+As even the cities faded out of view below rolls and rolls of clouds, stained purple by the setting sun, I kept staring. Beauty. Endless of it, all the way until the circle of horizon. It brought me sereneness. If it must be eternal ascent, then so be it. At least I could enjoy the ride.  
+When the sun sets, I would too. So long, friend.
+
+# **Election Officials Warn That Ballots Tied To Stray Cat Unlikely To Arrive In Time \| October 28 2026**
+
+It is said that we, as humans, obsess over *fairness*, and elections.  
+We create organizations and governments, officials  
+who give us a sliver of hope that when apocalypse comes, they will warn  
+us. And put so much reporting of fervent efforts in the news that  
+we get sick of it, and eventually we cast our ballots  
+elsewhere, another party, only for it to repeat on brand new grievances. For tied  
+to each idea are pros and cons: attractions, and things to  
+ignore. Though humanity is known for its unbelievable ability to stray  
+from the initial, noble ideas, and become nothing more than a street cat:  
+nothing more than cuteness in appearance. Highly unlikely  
+it is for us to achieve anything useful, for to  
+do that, efforts must be collective. Alas, it seems like we will arrive  
+at nowhere other than where we started, staying in  
+old shoes and living with an ignorant smile, until the end of time.
+
+# **November \| November 2 2026**
+
+November is like the leaves falling in the air,  
+cold to the touch, blotches of decay stained the once-bright orange.  
+Retreated from the scary nights of Halloween,  
+kids ran around in fresh puddles while  
+their mother shouted after them.  
+Maybe it reminded them of Peppa.
+
+November is like hearts tied together on a string,  
+having no choice but to stay close, because  
+if you stray, a breeze might just blow you away.  
+Warmth exists in unity,  
+and the kids sat in a circle, drunk  
+on good vibes, and simply chatted.
+
+November is like me,  
+trying to battle out the cold and  
+keep in the Halloween.  
+Maybe someone will be so kind as to  
+lend me a hand,  
+keep me rooted while the November gust  
+threatened to pull me away.
+
+# **Campfire \| November 6 2026**
+
+Campfires are for two, I’ve decided. In threes you gaze into the darkness; in fours you fight for the scarce warmth.  
+And if you’re alone, the darkness gladly be your companion.  
+As I sat in the middle of nowhere (these trees sort of look like Yellowstone), this rang more and more true. No matter how close your hands got to the fire, the same old breeze would bring chills to your back forever and ever. It had gotten colder and colder, to the point where I was half-flinching for the next time it paid me a visit, almost shuddering before I even felt it.  
+I checked my phone; it was half past three. Almost the latest I’d ever stayed up.  
+Murphy was fast asleep, and I should really sleep, but I hadn’t had a second to myself for forever, and this was a chance I would not get for another month. It had been only reasonable to stay a little longer in the fading warmth, only sensible to have myself for another hour.  
+Now that another three hours had passed, I found it difficult to go back into the tent and wake Murphy up in the process. She needed sleep. All the running around the trees and playing hide-and-seek with me had exhausted her. If I wake her up now, she will definitely be in that limbo where she’s slept enough to stay awake, but not enough to feel awake once the sun comes back up. I can’t wake her.  
+Maybe I’ll just pull an all-nighter.  
+But no, that can’t work either. I have work tomorrow. Back to the reception desk at H\&H, back to a week of exhausting, draining work. None of my friends get what it feels to be in service and have to fake that you aren’t tired. Every day is the same, but it would be the customer’s first time staying at H\&H, and you gotta fight for that five stars, go above and beyond. It’s terribly annoying.  
+I nearly choked on water when Murphy asked me if I’m happy at my job. I thought I wasn’t hiding it well enough; I thought I had to do even more to make everyone happy. But turns out it was just a question from her teacher, some activity they were doing in class. So I looked at her, met her eyes, and smiled. It’s so easy to smile when you look at someone with that much faith in you. And I said yes, I’m happy.  
+One could say she planted a seed, food for thought for me. I’ve been stuck here for a couple years now, and I know for a fact that if I told Brady any of this, he would burst into laughter—even though it’s nothing to laugh about—and tell me to switch my job. Chase my dreams. I’m young. Take the chance. Takes him a second to say, but half a year or even two for me to do. He doesn’t get it. I haven’t told him.  
+Because, sure, shoot for the moon, fortune favors the bold. But I should also keep family first and keep the home fire burning. Coming up with a saying that favors leaving is about as easy as coming up with one that is certain that I should stay.  
+Sayings are pretty useless, anyway. Last year, when I went back to visit my grandparents, they were absolutely insistent on hearing about Murphy, even though I was clearly out of fuel and could collapse on a bed and immediately be out. I told them how Murphy wanted me to look at her artwork again and again and again while I was minding my own business, namely ordering dinner for her. It was not even good artwork, it doesn’t even mean anything. Just doodles and weird, ugly drawings of creatures I would encounter in a real life version of Dungeons & Dragons. And I can’t say something like “Honey, daddy is working,” because then she will double her efforts and find an excuse to distract me twice as often with things that are not nearly half as important. Does she know that today, someone dragged me to the elevator to yell at me about how the elevator is broken and how there are three suitcases that need to go up to his room and that if I won’t help him, he’ll be sure to give us a bad review. Sure. I don’t understand why he wanted *me*, and not one of the half dozen people who lift baggage for a living.  
+And then when I got back to the reception desk, naturally there was a small line of impatient customers, expectant of my apologetic smile and ready to return the courtesy with a cold glare.  
+Does Murphy *know* that, when she drives me crazy with things?  
+Does Murphy *know* that she’s guilt tripping me into swallowing everything?  
+Of course not, that’s just me. I’m probably just stressed. And of course, that was not what I told my grandpop. He only heard the good parts. Plus a sentence in passing about how I’m fairly busy. In fact, I said this: “So yeah, Murphy’s doing well. She’s pretty happy, and I’m glad to have a girl like her. I’m terribly busy, though, else I’d spend more time with her.”  
+Grandpop told me, “No pressure, no diamonds.”  
+Is that *any* help?  
+Sometimes I genuinely question whether Brady is related to Grandpop. It genuinely seems like they don’t stop to consider what other people feel before they speak. They make me want to shout to their face, “Does that contribute anything to the conversation?” But I don’t, because I know the response would probably be a blank stare.  
+I’m used to keeping it to myself. Other people probably have it just as hard as me, anyway.  
+Yeah.  
+“Pa?” Murphy said. That could mean anything ranging from “Can we play hide-and-seek for the next hour?” to “Papa look at this thing I drew that you will not understand and appreciate, but nevertheless smile at me for\!”  
+“Pa?” Murphy said. So is it physical or mental exhaustion?  
+“Pa??” Murphy said. Well, that’s a new tone. When’s the last time I’ve heard that?  
+“Pa\!” Murphy yelled. The sound rang truer than my thoughts, clearer than my senses, fresher than the fluid I seemed to be swimming in.  
+Oh wait.  
+I snapped open my eyes, alarmed, disoriented, in shock, breathless, and I was immediately greeted by the bright morning sun and nothing else, and I almost cried out in pain to the light that was directly shining into my eyes. Taking a breath, I noted in silent annoyance the sizable black-green-brown patch that will now accompany my field of vision for the next five minutes, paying me a visit every time I blink.  
+Murphy had had her face up close to me, and as consciousness steadily returned to my exhausted and sleep-deprived body, she withdrew and breathed mist into the stingily cold morning. She had the small purple gloves on, a blue beanie on her head, her hair everywhere over her face. She was looking at me very carefully, almost assessing me about something—I have no idea what.  
+“Papa?” A tiny more bit of strength crept into her voice as she said this, eyebrows raised. Seeing my feeble nod and my squinted eyes, she burst into a huge grin, the happiest person on this planet, and announced in a bright voice, “Papa\! It’s morning\! I thought you were dead\!” She made a face, stuck her tongue out, and spun in bobbing circles.  
+I looked at the fire in front of me that had gone to ashes, the girl that was dancing in front of me because I’m still alive, the woods that will soon be lit up by daylight. I think I had a dream, and I don’t remember what it was about, other than it was about Murphy. Life is good.
 
 # **ideas**
 
